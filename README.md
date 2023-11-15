@@ -1,2 +1,2 @@
-# login-and-registration-system
+# login and registration system with logging
 Login and Registration System with File Logging written in C++
